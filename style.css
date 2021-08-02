@@ -1,0 +1,82 @@
+@font-face
+{
+font-family: "MontserratBold";
+src: url("font/Montserrat.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+}
+a 
+{
+  color: white; /* Цвет обычной ссылки */ 
+  text-decoration: none; /* Убираем подчёркивание у ссылок */
+}
+.navbarstl
+{
+  color:  #191970;
+}
+.buttonstyle{
+  margin:50px;
+  display:flex; 
+  justify-content:center; 
+  align-items:center;
+}
+.titlepara{
+  font-size: 200px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.titlepara2{
+  font-size: 200px;
+  margin-left: 100px;
+}
+.zag{
+  font-size: 50px;
+  margin-top:50px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.maintext{
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  
+  text-indent: 80px;
+  margin:50px;
+  text-align:justify;
+  font-size: 25px;
+}
+.maintext2{
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin:50px;
+  font-size:25px;
+  display:flex; 
+  justify-content:center; 
+  align-items:center;
+}
+html, body {
+height: 100%;
+}
+.cd-fixed-background {
+height: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+}
+.cd-fixed-background.img-1 {
+background-image: url("2-0-3.jpg");
+}
+.cd-fixed-background.img-2 {
+background-image: url("pexels-polina-tankilevitch-3738344.jpg");
+}
+.cd-fixed-background.img-3 {
+background-image: url("l2sGCXIscUjYt1BvhCoM9Y7J55SAQOrr.jpg");
+}
+.cd-fixed-background.img-4 {
+background-image: url("lazernoe-omolozhenie-lica.jpg");
+}
+.cd-fixed-background.img-5 {
+background-image: url("scale_1200.jpg");
+}
+
