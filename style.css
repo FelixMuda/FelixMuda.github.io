@@ -30,7 +30,7 @@ a
   margin-left: 100px;
 }
 .zag{
-  font-size: 50px;
+  font-size: 40px;
   margin-top:50px;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -65,10 +65,10 @@ background-position: center center;
 background-attachment: fixed;
 }
 .cd-fixed-background.img-1 {
-background-image: url("2-0-3.jpg");
+background-image: url("paraimgtwo.jpg");
 }
 .cd-fixed-background.img-2 {
-background-image: url("pexels-polina-tankilevitch-3738344.jpg");
+background-image: url("paraimg.jpg");
 }
 .cd-fixed-background.img-3 {
 background-image: url("l2sGCXIscUjYt1BvhCoM9Y7J55SAQOrr.jpg");
