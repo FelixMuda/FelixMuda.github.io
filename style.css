@@ -32,28 +32,36 @@ a
 .zag{
   font-size: 40px;
   margin-top:50px;
+  margin-bottom: 40px;
   text-align: center;
   font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
-
-.maintext{
+.maintext2
+{
+  font-family: 'Roboto', sans-serif;
+  justify-content:center; 
+  align-items:center;
+  text-align:center;
+  font-size: 25px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+/*.maintext{
   font-family: 'Roboto', sans-serif;
   font-family: 'Roboto Condensed', sans-serif;
-  
   text-indent: 80px;
-  margin:50px;
   text-align:justify;
   font-size: 25px;
 }
 .maintext2{
   font-family: 'Roboto', sans-serif;
   font-family: 'Roboto Condensed', sans-serif;
-  margin:50px;
   font-size:25px;
-  display:flex; 
+  display:inline; 
   justify-content:center; 
   align-items:center;
-}
+}*/
 html, body {
 height: 100%;
 }
